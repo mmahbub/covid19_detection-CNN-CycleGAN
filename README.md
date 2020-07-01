@@ -7,7 +7,4 @@ model before and after training were compared. We found that upsampling COVID-19
 approach improved overall classification accuracy for the test dataset to 96.2% and achieved a faster convergence than the
 baseline model.
 
-This work is inspired by [this paper](https://pubmed.ncbi.nlm.nih.gov/32252036/). 
-H. Zunair, and A. Hamza, ”Melanoma Detection using Adversarial
-Training and Deep Transfer Learning,” Institute of Physics and Engi-
-neering in Medicine (2020). .
+This work was inspired by [this paper](https://pubmed.ncbi.nlm.nih.gov/32252036/). 
